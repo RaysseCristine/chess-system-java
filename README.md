@@ -9,5 +9,5 @@ Projeto acadêmico jogo de xadrez, com base lógica no jogo com movimentações 
 ## Execução
 :file_folder: scr/application/Program
 
-# Autora
+## Autora
 - [@RaysseCristine](https://github.com/RaysseCristine)
